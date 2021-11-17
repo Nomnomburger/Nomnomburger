@@ -6,7 +6,7 @@ My name is Winston, and I am a Grade 10 Student located in Markham Ontario. I en
 - 🌱 I’m currently learning more about C++ and web technologies
 - 🔗 Visit my website at https://www.winstonzhao.ca
 
-![Github Card](https://github-readme-stats.vercel.app/api?username=Nomnomburger&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nomnomburger&layout=compact)
+![Github Card](https://github-readme-stats.vercel.app/api?username=Nomnomburger&username=WontonSoup777&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nomnomburger&layout=compact)
 
 <!--
 **Nomnomburger/Nomnomburger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
