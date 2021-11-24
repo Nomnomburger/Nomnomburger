@@ -7,8 +7,6 @@ My name is Winston, and I am a Grade 10 Student located in Markham Ontario. I en
 - 📎 Some upcoming projects include a school newspaper website and finishing the Elapse VRC web app project!
 - 🔗 Visit my website at https://www.winstonzhao.ca
 
-![Github Card](https://github-readme-stats.vercel.app/api?username=Nomnomburger&show_icons=true)
-
 <!--
 **Nomnomburger/Nomnomburger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
