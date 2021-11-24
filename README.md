@@ -4,6 +4,7 @@ My name is Winston, and I am a Grade 10 Student located in Markham Ontario. I en
 
 - 🔭 I’m currently working on building and maintaining the Team 839 website, https://www.839.team
 - 🌱 I’m currently learning more about C++ and web technologies
+- 📎 Some upcoming projects include a school newspaper website and finishing the Elapse VRC web app project!
 - 🔗 Visit my website at https://www.winstonzhao.ca
 
 ![Github Card](https://github-readme-stats.vercel.app/api?username=Nomnomburger&show_icons=true)
