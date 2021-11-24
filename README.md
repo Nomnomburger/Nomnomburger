@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋😀
 
 My name is Winston, and I am a Grade 10 Student located in Markham Ontario. I enjoy web design and development, and I participate in the VEX Robotics Competition. In my free time, aside from doing schoolwork, I work on web projects, tinker around on my computer, and work on VEX Robots!
 
