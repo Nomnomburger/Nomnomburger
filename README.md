@@ -2,9 +2,9 @@
 
 My name is Winston, and I am a Grade 10 Student located in Markham Ontario. I enjoy web design and development, and I participate in the VEX Robotics Competition. In my free time, aside from doing schoolwork, I work on web projects, tinker around on my computer, and work on VEX Robots!
 
-- 🔭 I’m currently working on building and maintaining the Team 839 website, https://www.839.team
+- 🔭 I’m currently working on the school newspaper website
 - 🌱 I’m currently learning more about C++ and web technologies
-- 📎 Some upcoming projects include a school newspaper website and finishing the Elapse VRC web app project!
+- 📎 Some upcoming projects include the Elapse VRC web app project and a website for VRC team 3150A!
 - 🔗 Visit my website at https://www.winstonzhao.ca
 
 <!--
