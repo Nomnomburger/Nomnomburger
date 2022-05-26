@@ -4,7 +4,6 @@ My name is Winston, and I am a Grade 10 Student located in Markham Ontario. I en
 
 - 🔭 I’m currently working on the school newspaper website
 - 🌱 I’m currently learning more about C++ and web technologies
-- 📎 Some upcoming projects include the Elapse VRC web app project and a website for VRC team 3150A!
 - 🔗 Visit my website at https://www.winstonzhao.ca
 
 <!--
