@@ -1,8 +1,8 @@
 ### Hi there 👋😀
 
-My name is Winston, and I am a Grade 11 Student located in Markham Ontario. I enjoy web design and development, and I participate in the VEX Robotics Competition. In my free time, aside from doing schoolwork, I work on web projects, tinker around on my computer, and work on VEX Robots!
+My name is Winston, and I am a Grade 11 Student located in Markham Ontario. I enjoy UI design and app development, and I participate in the VEX Robotics Competition. In my free time, aside from doing schoolwork, I work on web projects, tinker around on my computer, and work on VEX Robots!
 
-- 🔭 I’m currently working on a new website for VRC Team 25K
+- 🔭 I’m currently working on a new personal portfolio website
 - 🌱 I’m currently learning more about C++ and web technologies
 - 🔗 Visit my website at https://www.winstonzhao.ca
 
