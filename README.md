@@ -1,9 +1,9 @@
 ### Hi there 👋😀
 
-My name is Winston, and I am a Grade 12 Student located in Markham Ontario. I enjoy digital design and brand design. Aside from doing schoolwork, I work on web projects, ride my bike, and tinker around on my computer!
+My name is Winston, and I’m a Global Business & Digital Arts student at the University of Waterloo. As a product designer, I craft software and digital experiences that solve problems and delight users. I also enjoy cycling, manga, and photography!
 
-- 🔭 I’m currently preparing my university applications
-- 🌱 I’m currently learning more about web technologies
+- 🔭 I’m currently working on the MuniSync project
+- 🌱 I’m currently learning Japanese
 - 🔗 Visit my website at https://www.winstonzhao.ca
 
 <!--
