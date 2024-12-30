@@ -3,7 +3,7 @@
 My name is Winston, and I’m a Global Business & Digital Arts student at the University of Waterloo. As a product designer, I craft software and digital experiences that solve problems and delight users. I also enjoy cycling, manga, and photography!
 
 - 🔭 I’m currently working on the MuniSync project
-- 🌱 I’m currently learning Japanese
+- 🌱 I’m currently learning SwiftUI
 - 🔗 Visit my website at https://www.winstonzhao.ca
 
 <!--
